@@ -1,0 +1,23 @@
+{
+  "name": "m-es",
+  "version": "0.0.1",
+  "description": "ES6 modules lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manuel-m",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-m/m-es.git"
+  },
+  "keywords": [
+    "js",
+    "utility"
+  ],
+  "bugs": {
+    "url": "https://github.com/manuel-m/m-es/issues"
+  },
+  "homepage": "https://github.com/manuel-m/m-es#readme"
+}
